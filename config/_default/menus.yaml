@@ -12,5 +12,5 @@ main:
     url: uses/
     weight: 30
   - name: fjy
-    url: blog/dhw/index.html
+    url: blog/dhw/fjy.html
     weight: 40
